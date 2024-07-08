@@ -7,8 +7,8 @@ Código frontend relevante ao processo seletivo Jitterbit.
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Meu Processo](#my-process)
+  - [Construido Com](#built-with)
 
 ## Overview
 
